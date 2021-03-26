@@ -1,2 +1,2 @@
 # Exercicios
-Exercícios de reposição de aulas.
+Exercícios  para repor as aulas.
